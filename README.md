@@ -4,7 +4,7 @@
 
 ## Demo
 
-[![Watch the Raven AI demo](https://img.youtube.com/vi/l48lhiu8cbc/hqdefault.jpg)](https://www.youtube.com/watch?v=l48lhiu8cbc)
+[![Watch the Raven AI demo](https://img.youtube.com/vi/l48lhiu8cbc/maxresdefault.jpg)](https://www.youtube.com/watch?v=l48lhiu8cbc)
 
 *Click the thumbnail to watch the demo on YouTube. GitHub README Markdown does not provide a standard inline YouTube player.*
 
